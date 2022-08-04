@@ -5,6 +5,7 @@
     "test": "jest"
   },
   "devDependencies": {
+    "@aws-sdk/client-iot-events-data": "^3.142.0",
     "@types/jest": "^27.5.2",
     "@types/node": "10.17.27",
     "@types/prettier": "2.6.0",
